@@ -1,0 +1,10 @@
+name: server
+version: '1.0-SNAPSHOT'
+main: org.server.untitled.Main
+commands:
+  jump:
+    description: teleport
+  scoreboard:
+    description: create scoreboard
+  emerald:
+    description: eco emerald
